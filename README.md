@@ -5,5 +5,8 @@
 
 # Floor Plan
 
-<img src='images/titanic_floor_plan.jpg' width=600>
+<img src='images/titanic_floor_plan.png' width=600>
 
+# Route
+
+<img src='images/route.png' width=600>
